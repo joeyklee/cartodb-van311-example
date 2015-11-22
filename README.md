@@ -226,7 +226,7 @@ We can then write the appropriate names in the legend and click apply:
 
 Click Add Element:
 
-
+![](assets/img/stylemap2.png)
 
 Now add **Title Element** -- double click to edit:
 
@@ -242,9 +242,11 @@ Now add **text item** -- double click to edit:
 Maintenance hotline calls for January 2014. Learn more about the process [here]alls in January 2014. See [github.com/joeyklee](http://joeyklee.github.io/aloha-r/vancouver311.html). 
 ```
 
+![](assets/img/stylemap3.png)
+
 ## Now publish!!
 
-<iframe width="100%" height="520" frameborder="0" src="https://joeyklee.cartodb.com/viz/9c9341e8-914b-11e5-8e11-0ef7f98ade21/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe height="700" width="960" frameborder="0" src="https://joeyklee.cartodb.com/viz/9c9341e8-914b-11e5-8e11-0ef7f98ade21/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
 
