@@ -6,7 +6,7 @@ This is a quick teaser introducing CartoDB, web maps, and where you might explor
 
 We will be exploring Vancouver's 3-1-1 maintenance service phone calls and creating an animated map of the calls per day in January 2014.
 
-![](assets/img/stylemap4.png)
+![](assets/img/stylemap5.png)
 
 
 
@@ -262,7 +262,7 @@ You can see my map [here](https://joeyklee.cartodb.com/viz/9c9341e8-914b-11e5-8e
 
 Now take some time to refine your map - change the colors of the phone calls (don't forget to apply the style changes to your legend as wel), change the title, add in another dataset, have fun!
 
-![](assets/img/stylemap4.png)
+![](assets/img/stylemap5.png)
 
 
 
