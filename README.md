@@ -16,9 +16,9 @@ We will be exploring Vancouver's 3-1-1 maintenance service phone calls and creat
 	*  is a Software as a Service (SaaS) cloud computing platform that provides GIS and web mapping tools for display in a web browser. CartoDB users can use the company's free platform or deploy their own instance of the open source software. CartoDB is offered as freemium service, where accounts are free up to a certain size. For larger accounts, a fee is applied. Src: [wikipedia](https://en.wikipedia.org/wiki/CartoDB)
 * [geojson](https://en.wikipedia.org/wiki/GeoJSON):
 	* is an open standard format designed for representing simple geographical features, along with their non-spatial attributes, based on JavaScript Object Notation. src:[wikipedia](https://en.wikipedia.org/wiki/GeoJSON)
-	* interactively make a geojson file with [geojson.io](http://geojson.io/)
-*[Github](https://github.com/)
-	* Guthub is awesome - it is a social coding platform for sharing software, building on it, and documenting and version controlling software. If you're reading, this, you're probably reading it from Github.
+	* interactively make a geojson file with [geojson.io](http://geojson.io/).
+* [Github](https://github.com/)
+	* Github is awesome - it is a social coding platform for sharing software, building on it, and documenting and version controlling software. If you're reading, this, you're probably reading it from Github.
 
 
 ***
