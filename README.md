@@ -1,10 +1,14 @@
-# CartoDB Teaser
+# Vancouver 3-1-1: CartoDB Teaser
 date: 2015-11-22
 ***
 ## Overview
 This is a quick teaser introducing CartoDB, web maps, and where you might exploring interacting with and publishing your data on the web. 
 
-We will be exploring Vancouver's 3-1-1 maintenance service phone calls and creating an animated map of 
+We will be exploring Vancouver's 3-1-1 maintenance service phone calls and creating an animated map of the calls per day in January 2014.
+
+![](assets/img/stylemap3.png)
+
+
 
 ## Terms/Tools:
 
@@ -239,22 +243,23 @@ Vancouver 3-1-1
 Now add **text item** -- double click to edit:
 
 ```
-Maintenance hotline calls for January 2014. Learn more about the process [here]alls in January 2014. See [github.com/joeyklee](http://joeyklee.github.io/aloha-r/vancouver311.html). 
+Maintenance hotline calls for January 2014. Learn more about the process [here](http://joeyklee.github.io/aloha-r/vancouver311.html). Data Source: [Vancouver Open Data Catalog](http://data.vancouver.ca/datacatalogue/311caseLocationDetails.htm#details)
 ```
 
 ![](assets/img/stylemap3.png)
 
 ## Now publish!!
 
-<iframe height="700" width="960" frameborder="0" src="https://joeyklee.cartodb.com/viz/9c9341e8-914b-11e5-8e11-0ef7f98ade21/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+You can see my map here [http://bit.ly/1I4QaGc](http://bit.ly/1I4QaGc)
 
 
 
-## You just made your first animated and interactive web map - and its amazing!!
+***
+## You just made your first animated and interactive web map - and it's amazing!!
 
 
 
-
+***
 # Reference:
 
 ```
