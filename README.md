@@ -18,7 +18,7 @@ We will be exploring Vancouver's 3-1-1 maintenance service phone calls and creat
 	* is an open standard format designed for representing simple geographical features, along with their non-spatial attributes, based on JavaScript Object Notation. src:[wikipedia](https://en.wikipedia.org/wiki/GeoJSON)
 	* interactively make a geojson file with [geojson.io](http://geojson.io/)
 *[Github](https://github.com/)
-	* Guthub is awesome - 
+	* Guthub is awesome - it is a social coding platform for sharing software, building on it, and documenting and version controlling software. If you're reading, this, you're probably reading it from Github.
 
 
 ***
