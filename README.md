@@ -8,7 +8,7 @@ We will be exploring Vancouver's 3-1-1 maintenance service phone calls and creat
 
 ![](assets/img/stylemap5.png)
 
-
+[Intro to web maps presentation slides here!](http://joeyklee.github.io/cartodb-van311-example/slides/#/)
 
 ## Terms/Tools:
 
